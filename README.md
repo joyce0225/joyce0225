@@ -1,36 +1,58 @@
-# Joyce - Research Assistant & Cybersecurity Enthusiast
+# Joyce — Information Security Analyst 👋
 
-Hello, I'm Joyce! 👋 As a multidisciplinary professional, I blend a rich background in food technology with a growing passion in cybersecurity. My journey spans sensory science, product development, scripting automation, and information security. I am dedicated to leveraging my skills in research, technical writing, programming, and data analysis to bridge technology with practical applications.
+I’m Joyce — an Information Security Analyst with nearly 3 years of experience in control design, operational security, and automation. I focus on Microsoft security controls, identity and data protection, and building automation to improve enforcement and protection. I also helped investigate and evaluate the security posture of AI workloads at enterprise scale.
 
-## Skills and Learning 📚🛠️
+## Summary
+- Title: Information Security Analyst
+- Experience: nearly 3 years in information security and control delivery
+- Focus: Microsoft security stack, data protection (Purview/DLP), identity (Entra, Conditional Access, PAM), Defender, Sentinel, CNAPP, and enterprise AI workload security
 
-- **Languages:** Microsoft PowerShell, Python, Google Apps Script
-- **Security Tools:** NMap
-- **Currently Studying:** SC 400 Administering Information Protection and Compliance in Microsoft 365
+## Core Skills & Tools
+- Scripting & automation: Microsoft PowerShell, Python, Power Query, Google Apps Script, Visual Basic (VBS)
+- Microsoft security: Purview (DLP), Entra (Identity + Conditional Access), PAM solutions, Microsoft Defender, Microsoft Sentinel
+- Detection & query languages: KQL (Kusto Query Language)
+- Copilot & automation platforms: Copilot Studio, GitHub Copilot CLI
+- Cloud & CNAPP: cloud posture & workload protection, CNAPP tooling
+- Control engineering: design, pilot, and roll-out of policy controls and enforcement (DLP, Conditional Access, endpoint controls)
+- R&D & AI workload security: helped investigate and evaluate the security posture of AI workloads at enterprise scale
+- Other: file integrity monitoring, log analysis, vulnerability management
 
-## Work Experience 🧑🏻‍💻
+## Selected Experience
+- Information Security Analyst — (current role)
+  Lead projects to design and enforce identity and data protection controls, deliver Defender and CNAPP-based protections, and create automation and tooling for control orchestration and telemetry collection. Focus on enabling strong policy enforcement (e.g., Conditional Access, DLP) and introducing new technical controls through R&D and automation.
+- Research Assistant — Massey University
+  Supported technical writing and research projects.
+- Freelance Food Technologist Writer — D’Connect
+  Produced industry and technical content.
+- R&D Intern — Shaws Berry Farm Limited
+  Assisted with audits and SOP development.
+- Food Consultant Assistant — The Gold Standard Q Limited
+  Supported auditing and regulatory compliance.
 
-- **Research Assistant, Massey University:** Support in academic and commercial technical writing.
-- **Freelance Food Technologists Writer, D’Connect:** Authored blog posts on F&B industry trends.
-- **Research and Development Intern, Shaws Berry Farm Limited:** Assisted in annual audit and ISO standard quality control SOP writing.
-- **Food Consultant Assistant, The Gold Standard Q Limited:** Assisted in food auditing and regulatory compliance.
+## Education
+- Bachelor of Food Technology (First Class Honours, Food Product Technology Major) — Massey University (2019–2022)
 
-## Education 🎓
+## Certifications
+- CompTIA Security+
+- SC-500 (earned)
+- EC-Council: Hands-on Penetration Testing with Netcat
+- EC-Council: Black Hat C++ — C++ For Pentesters
+- Currently studying: AB620
 
-- **Bachelor of Food Technology with First Class Honours (Food Product Technology Major)** - Massey University (2019 - 2022)
+## Selected Projects
+- File Integrity Monitor in PowerShell — https://github.com/joyce0225/File-Integrity-Monitor_PowerShell
+  PowerShell-based file integrity checks and alerting automation.
+- Automate Reading File Metadata — https://github.com/joyce0225/Automate-Reading-File-
+  VBScript + Batch solution for directory scanning and metadata export.
+- YouTube Metadata Extractor — https://github.com/joyce0225/Youtube-Scraper-on-Video-Playlist
+  Google Apps Script to collect YouTube channel and video metadata into Google Sheets.
 
-## Certifications 📜
+## Connect
+- LinkedIn: https://www.linkedin.com/in/joyce-leung
+- GitHub: https://github.com/joyce0225
 
-- [**Security+ Certified, COMPTIA**](https://drive.google.com/file/d/1_9-RKNmWxp0U7hsgochGMLMnvh1DP5Un/view?usp=drive_link)
-- [**Hands-on Penetration Testing with Netcat, EC Council**](https://codered.eccouncil.org/certificate/66e82cbd-22e3-40d6-85ec-a1fb714bedf2?logged=true)
-- [**Black Hat C++: C++ For Pentesters**](https://codered.eccouncil.org/certificate/64e0dbe8-807d-41dd-8ce7-88e2d7b4baee?logged=true)
+---
 
-## Projects 🛡️
-
-- [**File Integrity Monitor in PowerShell**](https://github.com/joyce0225/File-Integrity-Monitor_PowerShell): A script for automating the monitoring of file integrity.
-- [**Automate Reading File Metadata**](https://github.com/joyce0225/Automate-Reading-File-): A Visual Basic Script and Batch file solution for scanning directories and gathering file metadata.
-- [**YouTube Metadata Extractor**](https://github.com/joyce0225/Youtube-Scraper-on-Video-Playlist): A Google Apps Script to fetch and compile metadata from YouTube channels and videos into a Google Sheet.
-
-## Connect With Me
-
-- **LinkedIn:** [Joyce Leung](https://www.linkedin.com/in/joyce-leung)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joyce0225&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
