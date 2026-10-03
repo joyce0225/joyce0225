@@ -1,6 +1,6 @@
 # Joyce — Information Security Analyst 👋
 
-I’m Joyce — an Information Security Analyst with nearly 3 years of experience in control design, operational security, and automation. I focus on Microsoft security controls, identity and data protection, and building automation to improve enforcement and protection. I also helped investigate and evaluate the security posture of AI workloads at enterprise scale.
+I’m Joyce — an Information Security Analyst with nearly 3 years of experience in control design, operational security, and automation. I focus on Microsoft security controls, identity and data protection, cloud workloads, and enterprise security operations.
 
 ## Summary
 - Title: Information Security Analyst
@@ -19,7 +19,7 @@ I’m Joyce — an Information Security Analyst with nearly 3 years of experienc
 
 ## Selected Experience
 - Information Security Analyst — (current role)
-  Lead projects to design and enforce identity and data protection controls, deliver Defender and CNAPP-based protections, and create automation and tooling for control orchestration and telemetry collection. Focus on enabling strong policy enforcement (e.g., Conditional Access, DLP) and introducing new technical controls through R&D and automation.
+  Lead projects to design and enforce identity and data protection controls, deliver Defender and CNAPP-based protections, and create automation and tooling for control orchestration and telemetry.
 - Research Assistant — Massey University
   Supported technical writing and research projects.
 - Freelance Food Technologist Writer — D’Connect
@@ -35,9 +35,9 @@ I’m Joyce — an Information Security Analyst with nearly 3 years of experienc
 ## Certifications
 - CompTIA Security+
 - SC-500 (earned)
+- Microsoft AB620 (earned)
 - EC-Council: Hands-on Penetration Testing with Netcat
 - EC-Council: Black Hat C++ — C++ For Pentesters
-- Currently studying: AB620
 
 ## Selected Projects
 - File Integrity Monitor in PowerShell — https://github.com/joyce0225/File-Integrity-Monitor_PowerShell
